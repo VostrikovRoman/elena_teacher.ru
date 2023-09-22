@@ -1,0 +1,1697 @@
+@media (min-width: 200px) and (max-width:1023px){
+    .group1 {
+        width: 250px;
+        margin-left: 15px;
+    }
+    .group2 {
+        width: 250px;
+    }
+    .group3 {
+        width: 250px;
+    }
+    .vds_back_button {
+        right: 40px;
+    }
+    .web_title {
+        display: none;
+    }
+    .flower2_main_page {
+        width: 120%;
+    }
+    
+    .fixed_panel {
+        position: fixed;
+        width: 50%;
+        left: -100%;
+        z-index: 100;
+        height: 100%;
+        background: linear-gradient(90deg, #fef2ff, #fac1ff);
+        transition: 0.75s;
+    }
+    .info_offer {
+        display: none;
+    }
+    .info_offer2 {
+        display: block;
+        position: absolute;
+        width: 100%;
+        bottom: 100px;
+    }
+    .social_networks {
+        width: 700px;
+        height: 200px;
+        top: -90px;
+        left: 85%;
+        transform: translate(-50%, 0px);
+    }
+    .web {
+        width: 50px;
+    }
+    .telegram {
+        left: 145px;
+    }
+    .whatsapp {
+        left: 255px;
+    }
+    .phone {
+        font-size: 25px;
+        top: 10px;
+        left: 145px;
+    }
+    .mail_ico {
+        left: 55px;
+        top: -10px;
+        width: 30px;
+    }
+    .mail {
+        font-size: 25px;
+        left: 100px;
+        top: -40px;
+    }
+    .title1_offer {
+        font-size: 26px;
+        top: 169px;
+        width: 340px;
+    }
+    .title2_offer {
+        font-size: 35px;
+        top: 229px;
+        width: 320px;
+    }
+    .title3_offer {
+        font-size: 23px;
+        top: 340px;
+    }
+    .title3_offer.vds_font_2{
+        left: 40px;
+        top: 335px;
+    }
+    .mark {
+        top: 354px;
+        left: 277px;
+        width: 45px;
+    }
+    .menu_open_btn{
+        display:block;
+    }
+    .menu_close_btn {
+        display: block;
+    }
+    .back_for_menu{
+        position:fixed;
+        width:50%;
+        height:100%;
+        opacity:70%;
+        left:100%;
+        background:black;
+        display:block;
+        z-index:100;
+        transition:0.75s;
+    }
+    .menu {
+        font-size: 40px;
+        list-style: none;
+        left: 50%;
+        transform: translate(-50%, 0px);
+        top: 150px;
+        width: 50%;
+    }
+    .m {
+        display: block;
+        margin-left: 0px;
+        margin-bottom: 65px;
+        transition: 0.25s;
+    }
+    .welcome_page {
+        height: 1050px;
+    }
+    .portfolio {
+        top: 1580px;
+        height:1750px;
+    }
+    .developments {
+        top: 3330px;
+        height: 1320px;
+    }
+    .manuals {
+        top: 4650px;
+        height:2700px;
+    }
+    .media {
+        top: 7350px;
+        height: 1215px;
+    }
+    .for_parents {
+        top: 8565px;
+        height: 4800px;
+    }
+    .footer {
+        top: 13365px;
+        height: 300px;
+    }
+    .title1_welcome_page {
+        top: 14px;
+        left: 50%;
+        transform: translate(-50%, 0);
+        font-size: 45px;
+    }
+    .title2_welcome_page {
+        font-size: 35px;
+        top: 150px;
+        left: 50%;
+        transform: translate(-50%, 0);
+        width: 740px;
+    }
+    .title3_welcome_page {
+        font-size: 35px;
+        top: 250px;
+        left: 700px;
+    }
+    .title4_welcome_page {
+        font-size: 35px;
+        top: 370px;
+        left: 50%;
+        transform: translate(-50%, 0);
+        width: 700px;
+    }
+    .title5_welcome_page {
+        font-size: 35px;
+        top: 820px;
+        left: 630px;
+    }
+    .title2_portfolio {
+        top: 100px;
+    }
+    .title5_portfolio.vds_font_2 {
+        top: 535px;
+    }
+    .text_for_portfolio {
+        font-size: 28px;
+    }
+    .ico_for_portfolio {
+        width: 80px;
+    }
+    .box_table_portfolio {
+        margin: -50px;
+        width: 550px;
+    }
+    .text_about_me_for_portfolio {
+        font-size: 22px;
+    }
+    .table_targets {
+        left: 25px;
+        top: 270px;
+    }
+    .title1_portfolio {
+        font-size: 40px;
+    }
+    .text_for_portfolio2 {
+        font-size: 28px;
+    }
+    .title5_portfolio {
+        top: 490px;
+    }
+    .table_about_me {
+        left: 80px;
+        top: 510px;
+    }
+    .box_table_portfolio2 {
+        width: 400px;
+        margin-left: -65px;
+        margin-right: -65px;
+        margin-top: 120px;
+    }
+    .title12_portfolio {
+        top: 1090px;
+    }
+    .diplom {
+        width: 350px;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .table_portfolio_diploms {
+        left: 0px;
+        bottom: 0px;
+    }
+    .portfolio_container {
+        width: 100%;
+        height: 510px;
+        bottom:30px;
+        overflow:scroll;
+    }
+    .title13_portfolio {
+        top: 1130px;
+        right: 65px;
+        font-size: 25px;
+    }
+    .diplom:hover {
+        transform: scale(1);
+    }
+    .title1_developments {
+        font-size: 40px;
+    }
+    .table_developments {
+        left: 30px;
+    }
+    .img_dev {
+        width: 145px;
+    }
+    .title_dev {
+        font-size: 30px;
+        width: 200px;
+    }
+    .dev1 {
+        height: 450px;
+        border-radius: 15px;
+    }
+    .dev2 {
+        height: 680px;
+        border-radius: 15px;
+    }
+    .img_update {
+        left: 340px;
+        top: 25px;
+        width: 30px;
+    }
+    .names {
+        width: 200px;
+        left: 30px;
+    }
+    .update {
+        font-size: 23px;
+        left: 250px;
+    }
+    .title_for_update {
+        font-size: 23px;
+    }
+    .str1_name {
+        top: 140px;
+    }
+    .str2_name {
+        top: 250px;
+    }
+    .str3_name {
+        top: 360px;
+    }
+    .str4_name{
+        top:470px;
+    }
+    .str5_name {
+        top: 580px;
+    }
+    .title1_manuals {
+        font-size: 40px;
+    }
+    .table_manuals {
+        left: 30px;
+        top: 130px;
+    }
+    .man {
+        width: 500px;
+        height: 300px;
+        margin-bottom: 440px;
+    }
+    .manuals_texts {
+        font-size: 25px;
+    }
+    .manuals_texts2 {
+        font-size: 27px;
+        width: 400px;
+    }
+    .ub_1 {
+        top: 370px;
+    }
+    .ub_2 {
+        top: 370px;
+    }
+    .ub_3 {
+        top: 430px;
+    }
+    .ub_4 {
+        top: 490px;
+    }
+    .update_block {
+        width: 220px;
+    }
+    .title5_man {
+        top: 535px;
+        font-size: 21px;
+    }
+    .title2_manuals {
+        top: 745px;
+    }
+    .table_quiz {
+        left: 40px;
+        top: 820px;
+    }
+    .heading_for_manuals {
+        top: 8px;
+        font-size: 30px;
+    }
+    .ub_5 {
+        top: 430px;
+    }
+    .ub_6 {
+        top: 430px;
+    }
+    .ub_7 {
+        top: 640px;
+    }
+    .video_for_manuals {
+        border-radius: 10px;
+        width: 390px;
+    }
+    .back_for_video {
+        border-radius: 10px;
+        width: 390px;
+        height: 219px;
+    }
+    .video {
+        border-radius: 10px;
+        width: 390px;
+    }
+    .start_button {
+        width: 59px;
+        left: -25px;
+        top: 65px;
+    }
+    .update2 {
+        font-size: 23px;
+        top: 210px;
+        left: 80px;
+    }
+    .img_update2 {
+        left: 175px;
+        top: 230px;
+        width: 30px;
+    }
+    .nfm_1 {
+        top: 210px;
+        left: -200px;
+        width: 260px;
+    }
+    .nfm_2 {
+        top: 210px;
+        left: -200px;
+        width: 260px;
+    }
+    .nfm_3 {
+        top: 210px;
+        left: -200px;
+        width: 260px;
+    }
+    .title1_media {
+        font-size: 40px;
+    }
+    .gallery_container_media {
+        top: 140px;
+    }
+    .nextSlide {
+        left: 90%;
+    }
+    .backSlide {
+        left: -44%;
+    }
+    .arrow_media {
+        top: 175px;
+        width: 70px;
+        z-index: 5;
+    }
+    .to_left_arrow_media {
+        left: 30px;
+    }
+    .to_right_arrow_media {
+        right: 30px;
+    }
+    .arrow_media:hover{
+        opacity:1;
+    }
+    .video_media {
+        height: 30%;
+    }
+    .back_for_video_media {
+        height: 30%;
+        width: 648px;
+    }
+    .start_button_media {
+        top: 770px;
+        font-size: 160px;
+    }
+    .more_button_media {
+        font-size: 30px;
+    }
+    .title1_for_parents {
+        font-size: 40px;
+    }
+    .title2_for_parents {
+        width: 500px;
+    }
+    .title3_for_parents {
+        font-size: 27px;
+        width: 75%;
+    }
+    .table_for_parents{
+        display:none;
+    }
+    .table_for_parents2 {
+        display: block;
+        left: 80px;
+        top: 240px;
+    }
+    .text_block_for_parents {
+        width: 800px;
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 130px;
+    }
+    .title_text_block {
+        font-size: 30px;
+    }
+    .text_text_block {
+        top: 75px;
+        font-size: 27px;
+    }
+    .ico_for_parents {
+        width: 90px;
+        position: absolute;
+        top: -23px;
+    }
+    .title4_for_parents {
+        font-size: 27px;
+        width: 570px;
+    }
+    .title5_for_parents {
+        font-size: 27px;
+        bottom: 50px;
+    }
+    .lf {
+        margin-top: 10px;
+    }
+    .title1_footer {
+        font-size: 30px;
+        margin-right: 130px;
+        width: 100px;
+    }
+    .box_footer {
+        width: 150px;
+        margin-right: 0px;
+        margin-top: 50px;
+    }
+    .title_box {
+        font-size: 20px;
+    }
+    .list_footer {
+        font-size: 16px;
+    }
+    .mail_ico_footer {
+        width: 25px;
+        top:75px;
+    }
+    .mail_footer {
+        left: 70px;
+    }
+    .web_footer {
+        width: 35px;
+    }
+    .wf3 {
+        left: 90px;
+    }
+    .wf4 {
+        left: 140px;
+    }
+    .rightbtn {
+        top: 47%;
+        right: 35px;
+        font-size: 90px;
+    }
+    .leftbtn {
+        top: 47%;
+        left: 35px;
+        font-size: 90px;
+    }
+    .closebtn {
+        top: 30px;
+        right: 60px;
+        font-size:130px
+    }
+    .video_block {
+        height: 40%;
+    }
+    .title1_main_page_portfolio {
+        font-size: 40px;
+    }
+    .title_for_main_page_portfolio {
+        font-size: 28px;
+    }
+    .table_portfolio {
+        top: 70px;
+    }
+    .diplom2 {
+        width: 215px;
+        margin: 10px;
+    }
+    .box1_main_page_portfolio {
+        height: 1100px;
+    }
+    .diplom3 {
+        height: 310px;
+        margin: 10px;
+    }
+    .box2_main_page_portfolio {
+        height: 1080px;
+    }
+    .box3_main_page_portfolio {
+        height: 1200px;
+    }
+    .main_page_portfolio {
+        height: 3600px;
+    }
+    .footer_portfolio{
+        top:3600px;
+        height:300px;
+    }
+    .mail_button3 {
+        top: 3600px;
+    }
+    .title1_main_page_manuals {
+        font-size: 40px;
+    }
+    .title2_main_page_manuals {
+        font-size: 28px;
+    }
+    .title3_main_page_manuals {
+        font-size: 27px;
+        width: 700px;
+        margin-top: 80px;
+    }
+    .update_block_for_manuals_page {
+        margin-top: 280px;
+        width: 600px;
+        left: 42%;
+    }
+    .title_for_update_manuals_page {
+        font-size: 23px;
+    }
+    .ub_manuals_page {
+        margin-bottom: 20px;
+    }
+    .ub_manuals_page2 {
+        margin-bottom: 20px;
+        height: 40px;
+    }
+    .column_manuals_page_2 {
+        margin-left: 150px;
+    }
+    .update_manuals_page {
+        left: 240px;
+        font-size: 23px;
+    }
+    .update_manuals_page2 {
+        font-size: 23px;
+        left: 640px;
+        margin-top: -50px;
+    }
+    .img_update_manuals_page {
+        left: 335px;
+        margin-top: 20px;
+        width: 25px;
+    }
+    .img_update_manuals_page2 {
+        left: 735px;
+        margin-top: -52px;
+        width: 25px;
+    }
+    .column_manuals_page_3 {
+        top: 390px;
+    }
+    .title_for_update_manuals_page2 {
+        font-size: 23px;
+        width: 600px;
+    }
+    .manuals_chapter_1 {
+        height: 1270px;
+    }
+    .column_manuals_page_4 {
+        left: -140px;
+    }
+    .footer_manuals {
+        top: 2700px;
+        height:300px;
+    }
+    .main_page_manuals{
+        height:2700px;
+    }
+
+    .update_block_for_logo_page {
+        margin-top: 30px;
+        width: 600px;
+        left: 42%;
+    }
+    .column_logo_page_3 {
+        top: 0px;
+    }
+    .logo_chapter_ {
+        height: 750px;
+    }
+    .title1_main_page_media {
+        font-size: 40px;
+    }
+    .title_for_album {
+        font-size: 20px;
+    }
+    .album {
+        width: 280px;
+        height: 280px;
+    }
+    .footer_media {
+        height: 300px;
+    }
+    .title_for_main_page_album {
+        width: 600px;
+        font-size: 28px;
+    }
+    .box_for_media {
+        top: 290px;
+    }
+    .title1_main_page_album {
+        top: 200px;
+        left: 50px;
+        font-size: 33px;
+    }
+    .photo_frame {
+        margin: 10px;
+        width: 280px;
+        height: 280px;
+    }
+    .table_photo {
+        left: 40px;
+    }
+    .start_button_album {
+        bottom: 75px;
+        left: 95px;
+    }
+    .footer_album {
+        height: 300px;
+    }
+} 
+
+
+
+
+@media (min-width: 1024px) and (max-width:1279px) {
+    .m {
+        margin-left: 30px;
+    }
+    .offer {
+        z-index: 1;
+    }
+    .menu {
+        font-size: 14px;
+        left: 172px;
+        top: 18px;
+    }
+
+    .man {
+        margin-left: 80px;
+        margin-right: 80px;
+        width: 400px;
+    }
+
+    .title4_for_parents {
+        bottom: 100px;
+    }
+
+    .title5_for_parents {
+        bottom: 70px;
+    }
+
+    .closebtn {
+        top: 30px;
+        right: 60px;
+        font-size: 70px;
+    }
+
+    .arrow_media {
+        width: 45px;
+    }
+
+    .web_title {
+        font-size: 22px;
+        left: 50px;
+        top: 10px
+    }
+
+    .flower2_main_page {
+        width: 120%;
+    }
+
+    .photo {
+        right: 131px;
+        top: 144px;
+        width: 290px;
+    }
+
+    .info_offer {
+        left: 300px;
+    }
+
+    .title3_welcome_page {
+        left: 750px;
+    }
+
+    .title5_welcome_page {
+        left: 750px;
+    }
+
+    .table_targets {
+        left: 80px;
+    }
+
+    .table_about_me {
+        left: 80px;
+    }
+
+    .diplom {
+        width: 200px;
+    }
+
+    .table_portfolio_diploms {
+        bottom: 150px;
+    }
+
+    .table_developments {
+        left: 50px;
+    }
+
+    .table_manuals {
+        left: 0px;
+    }
+
+    .manuals_texts2 {
+        width: 400px;
+    }
+
+    .table_quiz {
+        left: 0px;
+    }
+
+    .ub_5 {
+        top: 220px;
+    }
+
+    .ub_6 {
+        top: 220px;
+    }
+
+    .ub_7 {
+        top: 320px;
+    }
+
+    .thisSlide {
+        height: 90%;
+    }
+
+    .backSlide {
+        height: 50%;
+    }
+
+    .nextSlide {
+        height: 50%;
+        left: 85%;
+    }
+
+    .video_media {
+        height: 35%;
+    }
+
+    .back_for_video_media {
+        width: 882px;
+        height: 35%;
+    }
+
+    .start_button_media {
+        top: 820px;
+        font-size: 180px;
+    }
+
+    .more_button_media {
+        bottom: 80px;
+    }
+
+    .text_block_for_parents {
+        width: 400px;
+        height: 350px;
+        margin-left: 80px;
+        margin-right: 50px;
+    }
+
+    .for_parents {
+        height: 2200px
+    }
+
+    .footer {
+        top: 8115px;
+    }
+
+    .box_footer {
+        width: 180px;
+        margin-right: -10px;
+    }
+
+    .title1_footer {
+        margin-right: 160px;
+    }
+
+    .diplom2 {
+        width: 210px;
+    }
+
+    .box1_main_page_portfolio {
+        height: 1200px;
+    }
+
+    .diplom3 {
+        height: 290px;
+    }
+
+    .box2_main_page_portfolio {
+        height: 1200px;
+    }
+
+    .main_page_portfolio {
+        height: 3800px;
+    }
+
+    .footer_portfolio {
+        top: 3800px;
+    }
+
+    .mail_button3 {
+        top: 3800px;
+    }
+
+    .album {
+        width: 250px;
+        height: 250px;
+    }
+
+    .title_for_album {
+        font-size: 17px;
+    }
+
+    .photo_frame {
+        margin: 25px;
+        width: 250px;
+        height: 250px;
+    }
+
+    .title1_main_page_album {
+        top: 138px;
+        left: 110px;
+        font-size: 22px;
+    }
+}
+@media (min-width: 1180px) and (max-width:1700px){
+    .box_footer {
+        margin-right: 40px;
+    }
+} 
+
+@media (min-width: 1280px) and (max-width:1699px) {
+
+    .menu {
+        font-size: 18px;
+        left: 200px;
+    }
+    .offer {
+        z-index: 1;
+    }
+    .flower2_main_page {
+        width: 92%;
+    }
+
+    .table_targets {
+        left: 220px;
+    }
+
+    .table_about_me {
+        left: 220px;
+    }
+
+    .diplom {
+        width: 270px;
+    }
+
+    .table_portfolio_diploms {
+        bottom: 50px;
+    }
+
+    .table_developments {
+        left: 190px;
+        top: 90px;
+    }
+
+    .text_block_for_parents {
+        width: 450px;
+        height: 340px;
+    }
+
+    .footer {
+        top: 8015px;
+    }
+
+    .for_parents {
+        height: 2100px;
+    }
+
+    .title4_for_parents {
+        bottom: 80px;
+    }
+
+    .title5_for_parents {
+        bottom: 50px;
+    }
+    .diplom2 {
+        width: 270px;
+    }
+    .box1_main_page_portfolio {
+        height: 1400px;
+    }
+    .photo_frame {
+        width: 310px;
+        height: 310px;
+    }
+}
+
+@media (min-width: 1480px) and (max-width:2000px) {
+    .menu {
+        font-size: 20px;
+        left: 370px;
+    }
+    .offer {
+        z-index: 1;
+    }
+    .web_title {
+        font-size: 25px;
+    }
+    .info_offer {
+        left: 525px;
+        top: 85px;
+    }
+    .title5_welcome_page {
+        top: 545px;
+        font-size: 25px;
+    }
+    .title4_welcome_page {
+        font-size: 25px;
+        top: 233px;
+    }
+    .title3_welcome_page {
+        font-size: 25px;
+        top: 174px;
+    }
+    .title2_welcome_page {
+        font-size: 25px;
+        top: 121px;
+    }
+    .text_about_me_portfolio {
+        font-size: 17px;
+    }
+    .text_for_portfolio2 {
+        font-size: 20px;
+    }
+    .text_for_portfolio {
+        font-size: 20px;
+    }
+    .box_table_portfolio {
+        width: 450px;
+    }
+    .ico_for_portfolio {
+        width: 50px;
+    }
+    .table_targets {
+        left: 260px;
+    }
+    .table_about_me {
+        left: 330px;
+    }
+    .diplom {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .table_portfolio_diploms {
+        left: 75px;
+    }
+    .table_developments {
+        left: 280px;
+    }
+    .manuals_texts {
+        font-size: 20px;
+    }
+    .title_for_update {
+        font-size: 14px;
+    }
+    .update {
+        font-size: 14px;
+        top: -1px;
+        left: 211px;
+    }
+    .img_update {
+        left: 270px;
+    }
+    .manuals_texts2 {
+        font-size: 20px;
+    }
+    .title5_man {
+        font-size: 15px;
+        top: 280px;
+    }
+    .ub_1 {
+        top: 180px;
+    }
+    .ub_2 {
+        top: 190px;
+    }
+    .ub_3 {
+        top: 220px;
+    }
+    .ub_4 {
+        top: 250px;
+    }
+    .title2_manuals {
+        top: 430px;
+    }
+    .table_quiz {
+        left: 90px;
+        top: 470px;
+    }
+    .table_manuals{
+        left:90px;
+    }
+    .man {
+        margin-left: 50px;
+        margin-right: 50px;
+        margin-bottom: 36px;
+    }
+    .heading_for_manuals {
+        font-size: 20px;
+    }
+    .ub_5 {
+        top: 245px;
+    }
+    .ub_6 {
+        top: 250px;
+    }
+    .ub_7 {
+        top: 340px;
+    }
+    .update2 {
+        font-size: 14px;
+        top: 25px;
+    }
+    .title3_for_parents {
+        font-size: 20px;
+    }
+    .text_text_block {
+        font-size: 20px;
+    }
+    .title_text_block {
+        font-size: 20px;
+    }
+    .text_block_for_parents {
+        width: 600px;
+        height: 320px;
+        margin-left: 70px;
+        margin-right: 70px;
+    }
+    .table_for_parents {
+        left: 10px;
+    }
+    .title4_for_parents {
+        font-size: 20px;
+    }
+    .title5_for_parents {
+        font-size: 20px;
+        bottom: 45px;
+    }
+    .title13_portfolio {
+        right: 100px;
+        font-size: 18px;
+    }
+    .title_for_main_page_portfolio {
+        font-size: 20px;
+    }
+    .diplom2 {
+        width: 320px;
+    }
+    .box1_main_page_portfolio {
+        height: 1580px;
+    }
+    .diplom3 {
+        height: 440px;
+    }
+    .box2_main_page_portfolio {
+        height: 1610px;
+    }
+    .footer_portfolio {
+        top: 5100px;
+    }
+    .main_page_portfolio {
+        height: 5100px;
+    }
+    .mail_button3 {
+        top: 5100px;
+    }
+    .title2_main_page_manuals {
+        font-size: 20px;
+    }
+    .title3_main_page_manuals {
+        font-size: 20px;
+        margin-top: 65px;
+    }
+    .title_for_update_manuals_page {
+        font-size: 14px;
+    }
+    .update_manuals_page {
+        font-size: 14px;
+    }
+    .img_update_manuals_page {
+        left: 150px;
+        margin-top: 10px;
+    }
+    .update_block_for_manuals_page {
+        margin-top: 200px;
+    }
+    .title_for_update_manuals_page2 {
+        font-size: 14px;
+    }
+    .update_manuals_page2 {
+        font-size: 14px;
+    }
+    .img_update_manuals_page2 {
+        left: 440px;
+        margin-top: 10px;
+    }
+    .title_for_main_page_album {
+        font-size: 20px;
+    }
+    .photo_frame {
+        width: 370px;
+        height: 370px;
+        margin: 30px;
+    }
+}
+
+@media (min-width: 1700px) and (max-width:2000px) {
+    .menu {
+        font-size: 25px;
+    }
+    .offer {
+        z-index: 1;
+    }
+    .web_title {
+        font-size: 30px;
+    }
+    .photo {
+        top: 104px;
+        width: 320px;
+    }
+    .info_offer {
+        top: 100px;
+    }
+    .web {
+        width: 30px;
+    }
+    .vk {
+        left: 15px;
+    }
+    .telegram {
+        left: 60px;
+    }
+    .phone {
+        top: -26px;
+        left: 158px;
+        font-size: 24px;
+    }
+    .mail_ico {
+        left: 360px;
+        width: 30px;
+    }
+    .mail {
+        left: 410px;
+        top: -30px;
+        font-size: 24px;
+    }
+    .title1_offer {
+        font-size: 26px;
+        width: 331px;
+    }
+    .title2_offer {
+        font-size: 32px;
+        top: 292px;
+    }
+    .title3_offer {
+        font-size: 20px;
+    }
+    .mark {
+        top: 366px;
+        left: 251px;
+        width: 40px;
+    }
+    .title1_welcome_page {
+        font-size: 40px;
+    }
+    .title2_welcome_page {
+        font-size: 26px;
+        width: 800px;
+    }
+    .title3_welcome_page {
+        font-size: 26px;
+    }
+    .title4_welcome_page {
+        font-size: 26px;
+    }
+    .title5_welcome_page {
+        font-size: 26px;
+    }
+    .title1_portfolio {
+        font-size: 40px;
+    }
+    .title2_portfolio {
+        font-size: 25px;
+    }
+    .ico_for_portfolio {
+        width: 60px;
+    }
+    .text_about_me_for_portfolio {
+        font-size: 18px;
+    }
+    .table_targets {
+        top: 170px;
+        left:360px;
+    }
+    .text_for_portfolio2 {
+        font-size: 25px;
+    }
+    .title5_portfolio {
+        top: 385px;
+    }
+    .box_table_portfolio2 {
+        width: 280px;
+        margin-left: 15px;
+        margin-right: 15px;
+        margin-top: 100px;
+    }
+    .table_about_me {
+        left: 375px;
+        top: 370px;
+    }
+    .title12_portfolio {
+        top: 820px;
+    }
+    .portfolio {
+        height: 1400px;
+    }
+    .developments {
+        top: 2580px;
+        height: 920px;
+    }
+    .manuals {
+        top: 3500px;
+        height:1800px;
+    }
+    .media {
+        top: 5300px;
+        height:1615px;
+    }
+    .for_parents {
+        top: 6915px;
+        height: 2700px;
+    }
+    .footer {
+        top: 9615px;
+    }
+    .diplom {
+        width: 320px;
+    }
+    .title13_portfolio {
+        top: 844px;
+        right: 125px;
+        font-size: 20px;
+    }
+    .title1_developments {
+        font-size: 40px;
+    }
+    .dev1 {
+        width: 500px;
+        height: 290px;
+        border-radius: 15px;
+        margin: 20px;
+    }
+    .dev2 {
+        width: 500px;
+        height: 400px;
+        border-radius: 15px;
+        margin: 20px;
+    }
+    .img_dev {
+        left: 335px;
+    }
+    .title_dev {
+        font-size: 25px;
+    }
+    .names {
+        width: 230px;
+    }
+    .title_for_update {
+        font-size: 17px;
+    }
+    .update {
+        font-size: 17px;
+        top: 0px;
+        left: 242px;
+    }
+    .img_update {
+        left: 315px;
+        width:25px;
+    }
+    .str2_name {
+        top: 165px;
+    }
+    .str3_name {
+        top: 215px;
+    }
+    .str4_name {
+        top: 265px;
+    }
+    .str5_name {
+        top: 315px;
+    }
+    .table_developments {
+        left: 310px;
+    }
+    .title1_manuals {
+        font-size: 40px;
+    }
+    .manuals_texts {
+        font-size: 25px;
+    }
+    .manuals_texts2 {
+        font-size: 25px;
+        top: 50px;
+        width: 650px;
+    }
+    .update_block {
+        width: 230px;
+    }
+    .man {
+        margin-left: 100px;
+        margin-right: 100px;
+        margin-bottom: 120px;
+    }
+    .ub_1 {
+        top: 250px;
+    }
+    .ub_2 {
+        top: 250px;
+    }
+    .ub_3 {
+        top: 300px;
+    }
+    .ub_4 {
+        top: 350px;
+    }
+    .ub_5 {
+        top: 300px;
+        left: 300px;
+    }
+    .ub_6 {
+        top: 300px;
+        left: 300px;
+    }
+    .ub_7 {
+        top: 410px;
+        left: 300px;
+    }
+    .title2_manuals {
+        top: 550px;
+    }
+    .table_quiz {
+        top: 590px;
+    }
+    .heading_for_manuals {
+        font-size: 25px;
+    }
+    .title5_man {
+        font-size: 17px;
+        top: 400px;
+    }
+    .video_for_manuals {
+        width: 250px;
+        top: -25px;
+        left: -300px;
+    }
+    .back_for_video {
+        width: 250px;
+        height: 141px;
+        top: -23px;
+        left: -298px;
+    }
+    .start_button {
+        width: 45px;
+        left: -185px;
+        top: 20px;
+    }
+    .update2 {
+        font-size: 17px;
+    }
+    .img_update2 {
+        left: 70px;
+        width: 25px;
+    }
+    .video {
+        width: 250px;
+        top: -25px;
+        left: -300px;
+    }
+    .title1_media {
+        font-size: 40px;
+    }
+    .gallery_container_media {
+        height: 40%;
+        top: 150px;
+    }
+    .g_container_media {
+        height: 500px;
+    }
+    .arrow_media {
+        top: 500px;
+        width: 55px;
+    }
+    .to_left_arrow_media {
+        left: 100px;
+    }
+    .to_right_arrow_media {
+        right: 100px;
+    }
+    .video_media {
+        top: 750px;
+    }
+    .back_for_video_media {
+        top: 752px;
+        width: 1148px;
+    }
+    .start_button_media {
+        top: 960px;
+    }
+    .more_button_media {
+        font-size: 30px;
+    }
+    .title1_for_parents {
+        font-size: 40px;
+    }
+    .text_for_portfolio {
+        font-size: 25px;
+    }
+    .title3_for_parents {
+        font-size: 25px;
+    }
+    .table_for_parents {
+        top: 280px;
+    }
+    .text_text_block {
+        font-size: 25px;
+        top: 77px;
+    }
+    .title_text_block {
+        font-size: 26px;
+        top: 50px;
+    }
+    .ico_for_parents {
+        width: 65px;
+    }
+    .text_block_for_parents {
+        width: 700px;
+        height: 420px;
+    }
+    .title4_for_parents {
+        font-size: 25px;
+        bottom: 150px;
+    }
+    .title5_for_parents {
+        font-size: 25px;
+        bottom: 95px;
+    }
+    .title1_footer {
+        font-size: 31px;
+    }
+    .title_box {
+        font-size: 20px;
+    }
+    .list_footer {
+        font-size: 17px;
+    }
+    .box_footer {
+        width: 250px;
+        margin-top: 25px;
+        margin-right: 60px;
+    }
+    .closebtn {
+        top: 10px;
+        right: 45px;
+        font-size: 88px;
+    }
+    .rightbtn {
+        font-size: 75px;
+    }
+    .leftbtn {
+        font-size: 75px;
+    }
+    .title1_main_page_portfolio {
+        font-size: 40px;
+    }
+    .title_for_main_page_portfolio {
+        font-size: 25px;
+    }
+    .diplom2 {
+        width: 370px;
+    }
+    .box1_main_page_portfolio {
+        height: 1850px;
+    }
+    .diplom3 {
+        height: 510px;
+    }
+    .box2_main_page_portfolio {
+        height: 1850px;
+    }
+    .footer_portfolio {
+        top: 5800px;
+    }
+    .main_page_portfolio{
+        height:5800px;
+    }
+    .mail_button3 {
+        top: 5800px;
+    }
+    .web_footer {
+        width: 25px;
+    }
+    .wf3 {
+        left: 80px;
+    }
+    .wf4 {
+        left: 120px;
+    }
+    .title1_main_page_manuals {
+        font-size: 40px;
+    }
+    .title2_main_page_manuals {
+        font-size: 25px;
+    }
+    .title3_main_page_manuals {
+        font-size: 25px;
+        margin-top: 80px;
+    }
+    .update_block_for_manuals_page {
+        margin-top: 280px;
+    }
+    .title_for_update_manuals_page {
+        font-size: 17px;
+    }
+    .update_manuals_page {
+        font-size: 17px;
+        left: 110px;
+    }
+    .img_update_manuals_page {
+        left: 180px;
+        margin-top: 12px;
+        width: 22px;
+    }
+    .title_for_update_manuals_page2 {
+        font-size: 17px;
+    }
+    .update_manuals_page2 {
+        font-size: 17px;
+        margin-top: -33px;
+    }
+    .img_update_manuals_page2 {
+        left: 448px;
+        margin-top: -38px;
+        width: 22px;
+    }
+    .manuals_chapter_2 {
+        margin-top: 320px;
+    }
+    .manuals_chapter_3 {
+        margin-top: 120px;
+    }
+    .manuals_chapter_4 {
+        margin-top: 120px;
+    }
+    .ub_manuals_page2 {
+        margin-top: 20px;
+    }
+    .footer_manuals {
+        top: 2400px;
+    }
+    .main_page_manuals {
+        height: 2400px;
+    }
+    .title1_main_page_media {
+        font-size: 40px;
+    }
+    .album {
+        width: 430px;
+        height: 430px;
+    }
+    .title_for_album {
+        font-size: 25px;
+    }
+    .title_for_main_page_album {
+        font-size: 25px;
+    }
+    .title1_main_page_album {
+        font-size: 30px;
+    }
+    .photo_frame {
+        width: 470px;
+        height: 470px;
+        margin: 35px;
+    }
+    .footer_album {
+        top: 2000px;
+    }
+    .main_page_album{
+        height:2000px;
+    }
+    .mail_button5 {
+        top: 2000px;
+    }
+    .start_button_album {
+        bottom: 146px;
+        left: 175px;
+        font-size: 115px;
+    }
+} 
+

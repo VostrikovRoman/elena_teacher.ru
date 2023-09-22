@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+
+	<meta charset="UTF-8">
+	<link></link>
+	<title>Медиа - Смотр песни и строя 1 класс 2021-2022 уч.год</title>
+	<link rel="icon" href="../../images/favicon.jpg">
+
+	<link href="../../style.css" rel="stylesheet" type="text/css">
+	<link href="../../mediaScreen.css" rel="stylesheet" type="text/css">
+	<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+	<script src="../../gallery_for_media_script.js"></script>
+	<script src="../../portfolio_script.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<link href="../../assets/css/bvi.min.css" rel="stylesheet">
+</head>
+<body class="phon_portfolio_page" vlink="black" link="black">
+	<div href="#" class="bvi-open bug" title="Версия для слабовидящих">
+		<img class="VDS_button" src="../../images/VDS_ico.png" title="Версия для слабовидящих">
+	</div>
+	<div class="main_page_album">
+		<img class="flower1_media_page" src="../../images/flower1_portfolio_page.png">
+		<img class="flower2_media_page" src="../../images/flower2_portfolio_page.png">
+		<img class="flower3_media_page" src="../../images/flower3_portfolio_page.png">
+		<img class="flower4_media_page" src="../../images/flower4_portfolio_page.png">
+		<p class="web_title">Сайт учителя</p>
+		<img class="menu_open_btn" src="../../images/menu_ico.png" onclick="OpenMenu()">
+		<div class="fixed_panel" id="menu">
+			<ul class="menu">
+				<li class="m"><a class="a" href="../../../index.html#offer">Главная</a></li>
+				<li class="m"><a class="a" href="../../../index.html#portfolio">Портфолио</a></li>
+				<li class="m"><a class="a" href="../../../index.html#developments">Разработки</a></li>
+				<li class="m"><a class="a" href="../../../index.html#manuals">Методическая копилка</a></li>
+				<li class="m"><a class="a" href="../../../LOGO_page.html" onclick="CloseMenu()">ЛОГО-раздел</a></li>
+				<li class="m"><a class="a" href="../../../index.html#media">Медиа</a></li>
+				<li class="m"><a class="a" href="../../../index.html#for_parents">Родителям</a></li>
+			</ul>
+			<div class="info_offer2">
+				<div class="social_networks">
+					<a href="https://vk.com/id799167220" target="_blank"><img class="vk web" src="../../images/vk_ico.png"></a>
+					<a href="https://t.me/Lena_shaba" target="_blank"><img class="telegram web" src="../../images/telegram_ico.png"></a>
+					<a href="https://api.whatsapp.com/send?phone=79221655571" target="_blank"><img class="whatsapp web" src="../../images/whatsapp_ico.png"></a>
+				</div>
+				<p class="phone">+7 922 165 55 71</p>
+				<img class="mail_ico" src="../../images/mail_ico.png">
+				<p class="mail">pankratova_lenochka@mail.ru</p>
+			</div>
+			<img class="menu_close_btn" src="../../images/back_ico.png" onclick="CloseMenu()">
+		</div>
+		<div class="back_for_menu" id="menu2" onclick="CloseMenu()"></div>
+		<p class="title1_main_page_media">Медиа</p>
+		<p class="title1_main_page_album"><a class="a" href="main_media.html">Назад</a></p>
+		<p class="title_for_main_page_album">Смотр песни и строя 1 класс 2021-2022 уч.год</p>
+		<div class="box_for_media" id="portfolio_container">
+			<table class="table_photo">
+				<tr>
+					<td>
+						<div class="photo_frame">
+							<img class="photo_album" src="../../images/photo/Смотр песни и строя 1 класс 2021-2022 уч.год/20220427_080503.jpg" id="photo_album">
+						</div>
+					</td>
+					<td>
+						<div class="photo_frame">
+							<img class="photo_album" src="../../images/photo/Смотр песни и строя 1 класс 2021-2022 уч.год/20220427_080903.jpg" id="photo_album">
+						</div>
+					</td>
+					<td>
+						<div class="photo_frame">
+							<img class="photo_album" src="../../images/photo/Смотр песни и строя 1 класс 2021-2022 уч.год/20220427_085431.jpg" id="photo_album">
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="photo_frame">
+							<img class="photo_album" src="../../images/photo/Смотр песни и строя 1 класс 2021-2022 уч.год/20220427_090905.jpg" id="photo_album">
+						</div>
+					</td>
+					<td>
+						<div class="photo_frame">
+							<img class="photo_album" src="../../images/photo/Смотр песни и строя 1 класс 2021-2022 уч.год/20220427_100548.jpg" id="photo_album">
+						</div>
+					</td>
+					<td>
+						<div class="photo_frame">
+							<img class="photo_album" src="../../images/photo/Смотр песни и строя 1 класс 2021-2022 уч.год/20220427_100453.jpg" id="photo_album">
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div class="photo_frame">
+							<video class="video_album" src="../../video/20220427_084627.mp4" onclick="Video(this)"></video>
+							<span class="start_button_album">&#9650</span>
+						</div>
+					</td>
+					<td>
+					</td>
+					<td>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	<div class="video_back" id="video_back">
+		<div class="video_background"></div>
+		<span onclick="VideoPause(this)" class="closebtn btn">&times;</span>
+		<video src="" class="video_block" id="video_block" controls></video>
+	</div>
+	<div class="gallery">
+		<div class="gallery_background"></div>
+		<span class="closebtn btn" id="closebtn">&times;</span>
+		<span class="rightbtn btn" id="rightbtn">&#10097</span>
+		<span class="leftbtn btn" id="leftbtn">&#10097</span>
+		<img id="expandedImg" class="galleryImg">
+	</div>
+	<div class="footer_album">
+		<table class="table_footer">
+			<tr>
+				<td>
+					<p class="title1_footer">Сайт учителя</p>
+				</td>
+				<td class="td">
+					<div class="box1_footer box_footer">
+						<p class="title_box">Разработки</p>
+						<ul class="list_footer">
+							<li class="lf"><a class="l" href="../../../index.html#developments">Русский язык</a></li>
+							<li class="lf"><a class="l" href="../../../index.html#developments">Окружающий мир</a></li>
+							<li class="lf"><a class="l" href="../../../index.html#developments">Литературное чтение</a></li>
+							<li class="lf"><a class="l" href="../../../index.html#developments">Математика</a></li>
+						</ul>
+					</div>
+				</td>
+				<td class="td">
+					<div class="box2_footer box_footer">
+						<p class="title_box">Методическая копилка</p>
+						<ul class="list_footer">
+							<li class="lf"><a class="l" href="../../../index.html#manuals">Родительское собрание</a></li>
+							<li class="lf"><a class="l" href="../../../index.html#manuals">Подготовка к школе</a></li>
+							<li class="lf"><a class="l" href="../../../index.html#manuals">Внеклассные мероприятия (квизы)</a></li>
+						</ul>
+					</div>
+				</td>
+				<td class="td">
+					<div class="box3_footer box_footer">
+						<p class="title_box">Родителям</p>
+						<ul class="list_footer">
+							<li class="lf"><a class="l" href="../../../index.html#for_parents">10 великих слов</a></li>
+						</ul>
+					</div>
+				</td>
+				<td class="td">
+					<div class="box4_footer box_footer">
+						<p class="title_box">Контакты</p>
+						<ul class="list_footer">
+							<li class="lf">
+								<a href="https://vk.com/id799167220" target="_blank"><img class="web_footer wf1" src="../../images/vk_ico2.png"></a>
+								<a href="https://t.me/Lena_shaba" target="_blank"><img class="web_footer wf3" src="../../images/telegram_ico2.png"></a>
+								<a href="https://api.whatsapp.com/send?phone=79221655571" target="_blank"><img class="web_footer wf4" src="../../images/whatsapp_ico2.png"><br><br></a>
+							</li>
+							<li class="lf" id="phone">+7 922 165 55 71</li>
+							<li class="lf">
+								<img class="mail_ico_footer" src="../../images/mail_ico2.png">
+								<p class="mail_footer" id="mail">pankratova_lenochka@mail.ru</p>
+							</li>
+						</ul>
+					</div>
+				</td>
+			</tr>
+		</table>
+		<img class="flower1_footer" src="../../images/flower1_footer.png">
+		<img class="flower2_footer" src="../../images/flower2_footer.png">
+	</div>
+	<div class="message" align="center" id="message">Текст скопирован</div>
+	<input type="text" class="mail_button5" id="ForCopy" value="pankratova_lenochka@mail.ru">
+	<input type="text" class="phone_button5" id="ForCopy2" value="+7 922 165 55 71">
+	<script src="../../assets/js/bvi.min.js"></script>
+	<script type="text/javascript">new isvek.Bvi();</script>
+</body>
+</html>
